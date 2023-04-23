@@ -1,0 +1,5 @@
+name: Tag
+version: '${project.version}'
+main: mcup.gamemode.tag.Tag
+api-version: 1.19
+depend: [ Core ]
